@@ -1,0 +1,105 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+/* .banner-dark::after {
+    background-color: rgb(255, 177, 198);
+}
+
+.navbar-top.navbar-dark::before {
+    background-color: rgb(255, 177, 198);
+}
+
+.bg-primary {
+    background-color: rgb(255, 177, 198) !important;
+} */
+
+.banner-dark::after {
+    background-color: #FFE5EE;
+}
+
+.navbar-top.navbar-dark::before {
+    background-color: #FFE5EE;
+}
+
+.bg-primary {
+    background-color: #FFE5EE !important;
+}
+
+.bg-accent {
+    background-color: #FF95B1;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #000 !important;
+}
+
+.navbar-top::before {
+    background-color: #FFE5EE;
+}
+
+.tab-pane a {
+    color: #FF95B1;
+    text-decoration: underline;
+}
+
+.nav-social .nav-link:hover {
+    color: #FF95B1 !important;
+}
+
+.navbar-dark .navbar-toggle {
+    color: #000;
+}
+
+.bg-dark {
+    background-color: #FF95B1 !important;
+}
+
+.footer-copyright {
+    color: #eee;
+}
+
+.navbar-mobile .nav .nav-link, .navbar-mobile .nav .nav-link.active {
+    color:white;
+}
+
+.card-lawproject, .card-law {
+    background-color: #FFE5EE;
+    padding: 15px;
+}
+
+.card-lawproject .card-body, .card-law .card-body{
+    padding: 15px 0px !important;
+}
+
+.card-lawproject:hover {
+    background-color: #FF95B1;
+    cursor: pointer;
+}
+
+.card-lawproject:hover .card-body {
+    color: white;
+}
+
+.row.gv-3 > [class*="col"] {
+    padding-top: 15px;
+}
+
+.cursor-circle::after{
+    background-color: #FF95B1 !important;
+}
+
+.cursor-circle {
+    color: #fff;
+}
+
+.card.card-image-lg img {
+    object-fit: scale-down;
+}
+
+.btn.btn-primary:hover {
+    background-color: #FFA9BF !important;
+}
+
+.nav .nav-link-name::before {
+    top: 100%;
+}

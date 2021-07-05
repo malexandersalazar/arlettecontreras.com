@@ -22,13 +22,21 @@ También soy Conciliadora Extrajudicial Especializada en materia de Familia y ve
 
 ## Premios
 
-El año 2017 fui galardonada por el Departamento de Estado de los Estados Unidos de América con el Premio Internacional a las Mujeres de Coraje.
+El año 2017 fui galardonada por el Departamento de Estado de los Estados Unidos de América con el [Premio Internacional a las Mujeres de Coraje][1].
 
-Ese mismo año la revista TIME, me incluyó dentro de las 100 personas más influyentes del mundo en la categoría de Íconos. Time 100.
+Ese mismo año la revista TIME, me incluyó dentro de las 100 personas más influyentes del mundo en la categoría de Íconos. [Time 100][2].
 
-El año 2018 fui premiada y reconocida como una Defensora de los Derechos Humanos de las Mujeres por la Embajada de Reino Unido en el Perú.
+El año 2018 fui premiada y reconocida como una [Defensora de los Derechos Humanos de las Mujeres][3] por la Embajada de Reino Unido en el Perú.
 
-Ese mismo año la BBC de Londres me incluyó en la lista de las 100 Mujeres más inspiradoras del mundo. 100Women.
+Ese mismo año la BBC de Londres me incluyó en la lista de las 100 Mujeres más inspiradoras del mundo. [100Women][4].
+
+[1]: https://pe.usembassy.gov/es/peruana-arlette-contreras-esta-entre-las-galardonadas-con-el-premio-internacional-las-mujeres-de-coraje/ "Peruana Arlette Contreras está entre las galardonadas con el Premio Internacional del Secretario de Estado a las Mujeres de Coraje 2017"
+
+[2]: https://time.com/collection/2017-time-100/4736245/cindy-arlette-contreras-bautista/ "Cindy Arlette Contreras Bautista"
+
+[3]: https://www.gov.uk/government/news/arlette-contreras-receives-uk-human-rights-defender-award.es-419 "Arlette Contreras recibe premio de Defensora de Derechos Humanos del Reino Unido"
+
+[4]: https://www.bbc.com/news/world-46225037 "BBC 100 Women 2018: Who is on the list?"
 
 ## Sueños 
 

@@ -1,4 +1,4 @@
-﻿[
+﻿    [
         {
             "TIPO": "CEM_COMISARIA",
             "NOMBRE": "COMISARIA PNP BAGUA",
@@ -94,7 +94,7 @@
             "COORDINADOR": " HELEN MILY ROMERO LOPEZ",
             "CELULAR1": "943702480",
             "CORREO1": "helenmily24@gmail.com   ",
-            "LATITUD": "-9.140700",
+            "LATITUD": "-9.1407",
             "LONGITUD": "-77.745611"
         },
         {
@@ -150,7 +150,7 @@
             "CELULAR2": "950040978",
             "CORREO1": "marlenycondorihuaman88@gmail.com ",
             "LATITUD": "-13.540085",
-            "LONGITUD": "-72.696390"
+            "LONGITUD": "-72.69639"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -205,7 +205,7 @@
             "CELULAR1": "932859513",
             "CELULAR2": "999250496",
             "CORREO1": "rocio.c.llosa.ps@hotmail.com ",
-            "LATITUD": "-16.452670",
+            "LATITUD": "-16.45267",
             "LONGITUD": "-71.553267"
         },
         {
@@ -317,7 +317,7 @@
             "COORDINADOR": "EDWIN FLORES BARRIGA  ",
             "CELULAR1": "961160929",
             "CORREO1": "edwin.747400@gmail.com ",
-            "LATITUD": "-16.627150",
+            "LATITUD": "-16.62715",
             "LONGITUD": "-72.711699"
         },
         {
@@ -389,7 +389,7 @@
             "CELULAR1": "989330281",
             "CELULAR2": "986736072",
             "CORREO1": "rvalentin3_24@hotmail.com ",
-            "LATITUD": "-7.156340",
+            "LATITUD": "-7.15634",
             "LONGITUD": "-78.515318"
         },
         {
@@ -457,7 +457,7 @@
             "CELULAR1": "991748971",
             "CORREO1": "ivan.jacobo.abogado@gmail.com ",
             "LATITUD": "-12.043274",
-            "LONGITUD": "-77.111360"
+            "LONGITUD": "-77.11136"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -499,8 +499,8 @@
             "CELULAR1": "932862503",
             "CELULAR2": "984747802",
             "CORREO1": "javicito001@gmail.com ",
-            "LATITUD": "-13.521700",
-            "LONGITUD": "-71.972980"
+            "LATITUD": "-13.5217",
+            "LONGITUD": "-71.97298"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -583,7 +583,7 @@
             "PROVINCIA": "HUANCAVELICA",
             "DISTRITO": "HUANCAVELICA",
             "DIRECCION": "JIRÓN VIRREY TOLEDO N° 598, HUANCAVELICA - HUANCAVELICA - HUANCAVELICA. REFERENCIA: A 1 CUADRA DE LA PLAZA DE ARMAS DE HUANCAVELICA.",
-            "COORDINADOR": "       GOMEZ HUARINGA NIEVES",
+            "COORDINADOR": "GOMEZ HUARINGA NIEVES",
             "CELULAR1": "989388711",
             "CELULAR2": "952608792",
             "CORREO1": "cemcom.huancavelica@pncvfs.gob.pe ",
@@ -724,7 +724,7 @@
             "CELULAR1": "996502036",
             "CORREO1": "elikui@hotmail.com ",
             "LATITUD": "-13.657112",
-            "LONGITUD": "-76.036860"
+            "LONGITUD": "-76.03686"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -794,8 +794,8 @@
             "CELULAR1": "989351070",
             "CELULAR2": "992331447",
             "CORREO1": "psnalvarte_jm@hotmail.com ",
-            "LATITUD": "-11.322580",
-            "LONGITUD": "-74.532360"
+            "LATITUD": "-11.32258",
+            "LONGITUD": "-74.53236"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -834,7 +834,7 @@
             "COORDINADOR": "RICARDO SALAZAR TORRES",
             "CELULAR1": "943086446",
             "CORREO1": "rsalazar@aurora.gob.pe ",
-            "LATITUD": "-7.890010",
+            "LATITUD": "-7.89001",
             "LONGITUD": "-79.220963"
         },
         {
@@ -849,7 +849,7 @@
             "CELULAR2": "963330733",
             "CORREO1": "cemcomisariaelmilagro@gmail.com ",
             "LATITUD": "-8.031303",
-            "LONGITUD": "-79.066860"
+            "LONGITUD": "-79.06686"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1015,7 +1015,7 @@
             "CELULAR2": "945403764",
             "CORREO1": "marianellacarvallo@hotmail.com ",
             "LATITUD": "-6.923053",
-            "LONGITUD": "-79.583240"
+            "LONGITUD": "-79.58324"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1100,7 +1100,7 @@
             "CELULAR2": "944947454",
             "CORREO1": "mapo71xs@gmail.com ",
             "LATITUD": "-12.051564",
-            "LONGITUD": "-77.011290"
+            "LONGITUD": "-77.01129"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1255,7 +1255,7 @@
             "CELULAR1": "989321312",
             "CELULAR2": "987309138",
             "CORREO1": "cemciacondevilla@gmail.com ",
-            "LATITUD": "-12.030560",
+            "LATITUD": "-12.03056",
             "LONGITUD": "-77.057631"
         },
         {
@@ -1284,7 +1284,7 @@
             "CELULAR2": "956949710",
             "CORREO1": "cemcomisariahuaycan@gmail.com ",
             "LATITUD": "-12.010965",
-            "LONGITUD": " -76.828530"
+            "LONGITUD": "-76.82853"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1372,7 +1372,7 @@
             "CELULAR2": "966565856",
             "CORREO1": "cem.cia.lurin@gmail.com ",
             "LATITUD": "-12.273751",
-            "LONGITUD": "-76.868800"
+            "LONGITUD": "-76.8688"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1442,7 +1442,7 @@
             "CELULAR2": "964734165",
             "CORREO1": "cemcomisariapueblolibre@gmail.com ",
             "LATITUD": "-12.033264",
-            "LONGITUD": "-77.040190"
+            "LONGITUD": "-77.04019"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1627,7 +1627,7 @@
             "CELULAR1": "999052823",
             "CELULAR2": "949955725",
             "CORREO1": "soldeorocemcomisaria@gmail.com ",
-            "LATITUD": "-11.996910",
+            "LATITUD": "-11.99691",
             "LONGITUD": "-77.065091"
         },
         {
@@ -1655,7 +1655,7 @@
             "CELULAR1": "989260351",
             "CELULAR2": "964734165",
             "CORREO1": "cemcomisariavitarteate@gmail.com ",
-            "LATITUD": "-12.03020",
+            "LATITUD": "-12.0302",
             "LONGITUD": "-76.923586"
         },
         {
@@ -1757,7 +1757,7 @@
             "CELULAR2": "951649071",
             "CORREO1": "canahuad@gmail.com ",
             "LATITUD": "-17.181358",
-            "LONGITUD": "-70.898570"
+            "LONGITUD": "-70.89857"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1801,7 +1801,7 @@
             "CELULAR2": "964050292",
             "CORREO1": "jhann.c@gmail.com ",
             "LATITUD": "-10.702642",
-            "LONGITUD": " -76.290832"
+            "LONGITUD": "-76.290832"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -1830,7 +1830,7 @@
             "CELULAR2": "946143078",
             "CORREO1": "wicachay93@gmail.com ",
             "LATITUD": "-5.185753",
-            "LONGITUD": "-80.654620"
+            "LONGITUD": "-80.65462"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2050,7 +2050,7 @@
             "CELULAR2": "942459012",
             "CORREO1": "kabafeva@gmail.com ",
             "LATITUD": "-6.047207",
-            "LONGITUD": "-76.970660"
+            "LONGITUD": "-76.97066"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2238,7 +2238,7 @@
             "CELULAR1": "944899411",
             "CORREO1": "yecisumari@gmail.com ",
             "LATITUD": "-13.427074",
-            "LONGITUD": "-76.163480"
+            "LONGITUD": "-76.16348"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2250,8 +2250,8 @@
             "COORDINADOR": "JESSICA FLORES  CARRASCO",
             "CELULAR1": "973639549",
             "CORREO1": "jessica.flores_01@hotmail.com ",
-            "LATITUD": "-17.644000",
-            "LONGITUD": "-71.343710"
+            "LATITUD": "-17.644",
+            "LONGITUD": "-71.34371"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2314,7 +2314,7 @@
             "COORDINADOR": "ERIKA EVELIN SOLIS CUADROS",
             "CELULAR1": "989667252",
             "LATITUD": "-16.998915",
-            "LONGITUD": "-72.096440"
+            "LONGITUD": "-72.09644"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2351,7 +2351,7 @@
             "CELULAR1": "945431072",
             "CORREO1": "anamilagrospf@gmail.com ",
             "LATITUD": "-3.766799",
-            "LONGITUD": "-73.260430"
+            "LONGITUD": "-73.26043"
         },
         {
             "TIPO": "CEM_COMISARIA",
@@ -2365,6 +2365,854 @@
             "CORREO1": "atarrillo@aurora.gob.pe",
             "LATITUD": "-5.945045",
             "LONGITUD": "-77.305403"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "BAGUA",
+            "REGION": "AMAZONAS",
+            "PROVINCIA": "BAGUA",
+            "DISTRITO": "BAGUA",
+            "DIRECCION": "JR. SARGENTO LORES S/N A 2 CUADRAS DE LA GERENCIA SUB REGIONAL DE BAGUA",
+            "COORDINADOR": "PALACIOS ESPINOZA BERTHA DOLORES DEL ROSARIO",
+            "CELULAR1": "994839908",
+            "CELULAR2": "910412925",
+            "CORREO1": "rosario_9363@hotmail.com",
+            "LATITUD": "-5.641492",
+            "LONGITUD": "-78.526541"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CANGALLO",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "CANGALLO",
+            "DISTRITO": "CANGALLO",
+            "DIRECCION": "MUNICIPALIDAD PROVINCIAL DE CANGALLO, 2DO PISO - PLAZA PRINCIPAL DE CANGALLO ",
+            "COORDINADOR": "CHAVEZ ESPINAL GISELA KARINA",
+            "CELULAR1": "994834086",
+            "CELULAR2": "964139540",
+            "CORREO1": "karina270_@hotmail.com",
+            "LATITUD": "-13.629038",
+            "LONGITUD": "-74.143678"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUAMANGA",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "HUAMANGA",
+            "DISTRITO": "SAN JUAN BAUTISTA",
+            "DIRECCION": "AV. CUSCO 416, DISTRITO DE SAN JUAN BAUTISTA",
+            "COORDINADOR": "DE LA CRUZ JAIME YULI",
+            "TELEFONO1": "066315291",
+            "CELULAR1": "941524315",
+            "CELULAR2": "962545314",
+            "CORREO1": "yuli_art_1@hotmail.com",
+            "LATITUD": "-13.170527",
+            "LONGITUD": "-74.209897"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUANCA SANCOS",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "HUANCA SANCOS",
+            "DISTRITO": "SANCOS",
+            "DIRECCION": "AV. LOS AYLLUS S/N - LOCAL MUNICIPAL - 1ER PISO",
+            "COORDINADOR": "FLORES BELLIDO CRISTINA",
+            "CELULAR1": "994374411",
+            "CELULAR2": "966755735",
+            "CORREO1": "crisflore_1260@hotmail.com",
+            "LATITUD": "-13.919762",
+            "LONGITUD": "-74.334137"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUANTA",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "HUANTA",
+            "DISTRITO": "HUANTA",
+            "DIRECCION": "JR. LIBERTAD N°185 (A 01 CUADRA DE LA MUNICIPALIDAD DE HUANTA)",
+            "COORDINADOR": "DEL AGUILA OCHOA MARGARITA",
+            "TELEFONO1": "066282346",
+            "CELULAR1": "994840401",
+            "CELULAR2": "980030240",
+            "CORREO1": "margadelao@hotmail.com",
+            "LATITUD": "-12.938278",
+            "LONGITUD": "-74.247764"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "LA MAR",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "LA MAR",
+            "DISTRITO": "SAN MIGUEL",
+            "DIRECCION": "JR. MARIA PARADO DE BELLIDO  S/N - CENTRO CIVICO OFICINA N°11, SAN MIGUEL - LA MAR (AL COSTADO DE SENASA)",
+            "COORDINADOR": "QUINTANA LAOS WENDY",
+            "TELEFONO1": "066324145",
+            "CELULAR1": "994840141",
+            "CELULAR2": "929352516",
+            "CORREO1": "wendy_ql@hotmail.com",
+            "LATITUD": "-13.012371",
+            "LONGITUD": "-73.980944"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "LUCANAS",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "LUCANAS",
+            "DISTRITO": "PUQUIO",
+            "DIRECCION": "JR. BOLOGNESI N° 108 (A MEDIA PLAZA DE ARMAS DE PUQUIO) - MUNICIPALIDAD PROVINCIAL DE LUCANAS -PUQUIO",
+            "COORDINADOR": "CONOPUMA LARA FLOR DE MILAGROS",
+            "TELEFONO1": "066452066",
+            "CELULAR1": "994840384",
+            "CELULAR2": "941908072",
+            "CORREO1": "milina3@hotmail.com",
+            "LATITUD": "-14.694244",
+            "LONGITUD": "-74.12465"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "PARINACOCHAS",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "PARINACOCHAS",
+            "DISTRITO": "CORA CORA",
+            "DIRECCION": "JR. BOLOGNESI N° 421 - CENTRO CIVICO DE CORA CORA",
+            "COORDINADOR": "ROMAN ESPINOZA ELIZABETH",
+            "TELEFONO1": "066451023",
+            "CELULAR1": "941524310",
+            "CELULAR2": "975044241",
+            "CORREO1": "elizabethroman_e@hotmail.com",
+            "LATITUD": "-15.017048",
+            "LONGITUD": "-73.781285"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "PAUCAR DEL SARA SARA",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "PAUCAR DEL SARA SARA",
+            "DISTRITO": "PAUSA",
+            "DIRECCION": "JR. MIGUEL DE CERVANTES N°455 -1ER PISO (PLAZA DE ARMAS PAUCAR DEL SARA SARA)",
+            "COORDINADOR": "MAMANI ESPINOZA ELIA MONICA",
+            "CELULAR1": "994819192",
+            "CELULAR2": "928276961",
+            "CORREO1": "smile2806@hotmail.com",
+            "LATITUD": "-15.278516",
+            "LONGITUD": "-73.344276"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SIVIA",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "HUANTA",
+            "DISTRITO": "SIVIA",
+            "DIRECCION": "AV. MISIÓN FRANCISCANA CRUCE CON LA AV. RICARDO PALMA - 2DO PISO - FRENTE AL CONVENTO DE SIVIA",
+            "COORDINADOR": "PALOMINO HERNANDEZ ABDON",
+            "CELULAR1": "994374405",
+            "CELULAR2": "966136688",
+            "CORREO1": "consorciojuridicopalomino@hotmail.com",
+            "LATITUD": "-12.510053",
+            "LONGITUD": "-73.857448"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SUCRE",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "SUCRE",
+            "DISTRITO": "QUEROBAMBA",
+            "DIRECCION": "INTERIOR DE LA MUNICIPALIDAD DISTRITAL DE QUEROBAMBA, 2DO PISO (PLAZA DE ARMAS QUEROBAMBA)",
+            "COORDINADOR": "NAULA ZARATE MARISOL ANGELA",
+            "CELULAR1": "994833922",
+            "CELULAR2": "966423007",
+            "CORREO1": "sol.naula22@gmail.com",
+            "LATITUD": "-14.011519",
+            "LONGITUD": "-73.838632"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "VICTOR FAJARDO",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "FAJARDO",
+            "DISTRITO": "HUANCAPI",
+            "DIRECCION": "AV. VICTOR FAJARDO S/N CUADRA 7 (LOCAL DE LA GOBERNACION)",
+            "COORDINADOR": "TACZA GONZALES BERTHA VERONICA",
+            "CELULAR1": "994840603",
+            "CELULAR2": "961242305",
+            "CORREO1": "veronica_gota@hotmail.com",
+            "LATITUD": "-13.752289",
+            "LONGITUD": "-74.066494"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "VILCASHUAMAN",
+            "REGION": "AYACUCHO",
+            "PROVINCIA": "VILCAS HUAMAN",
+            "DISTRITO": "VILCAS HUAMAN",
+            "DIRECCION": "PLAZA PACHACUTEC S/N (INTERIOR DE LA MUNIICIPALIDAD PROVINCIAL DE VILCAS HUAMAN - 2DO PISO)",
+            "COORDINADOR": "QUISPE COÑES DEIS YANINA",
+            "CELULAR1": "994841359",
+            "CELULAR2": "999875054",
+            "CORREO1": "deis_8@hotmail.com",
+            "LATITUD": "-13.652642",
+            "LONGITUD": "-73.953862"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CAJABAMBA",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CAJABAMBA",
+            "DISTRITO": "CAJABAMBA",
+            "DIRECCION": "JIRON ARIAS N° 518 - DISTRITO CAJABAMBA (COSTADO DE SUNARP)",
+            "COORDINADOR": "QUISPE LEON YENKO YAKENDRA ",
+            "TELEFONO1": "076551125",
+            "CELULAR1": "994834256",
+            "CELULAR2": "992462854",
+            "CORREO1": "eskarlen_15@hotmail.com",
+            "LATITUD": "-7.62491",
+            "LONGITUD": "-78.046407"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CAJAMARCA",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CAJAMARCA",
+            "DISTRITO": "CAJAMARCA",
+            "DIRECCION": "JR. BELEN  N° 683 ( COSTADO CASA HOGAR DE NIÑA DE BELEN)",
+            "COORDINADOR": "CUSQUISIBÁN SÁNCHEZ ALICIA SOLEDAD ",
+            "TELEFONO1": "076364000",
+            "CELULAR1": "994834045",
+            "CELULAR2": "984196492",
+            "CORREO1": "aliss_21_10@hotmail.com",
+            "LATITUD": "-7.158544",
+            "LONGITUD": "-78.516212"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CELENDIN",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CELENDIN",
+            "DISTRITO": "CELENDIN",
+            "DIRECCION": "JR. SAN MARTIN 343 (AL COSTADO DE LA DEFENSORIA PÚBLICA - SEDE CELENDIN)",
+            "COORDINADOR": "LLICO HUAMAN CINTHYA KATHERINE",
+            "TELEFONO1": "076555184",
+            "CELULAR1": "941524319",
+            "CELULAR2": "920599648",
+            "CORREO1": "cllicoh@crece.uss.edu.pe",
+            "LATITUD": "-6.863992",
+            "LONGITUD": "-78.147112"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CHOTA",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CHOTA",
+            "DISTRITO": "CHOTA",
+            "DIRECCION": "JR. CAJAMARCA 638 (COSTADO DE LA CAJA TRUJILLO - CHOTA)",
+            "COORDINADOR": "REYES CARRANZA ANA MARIA",
+            "TELEFONO1": "076351156",
+            "CELULAR1": "994840094",
+            "CELULAR2": "975970756",
+            "CORREO1": "amrc_9@hotmail.com",
+            "LATITUD": "-6.562114",
+            "LONGITUD": "-78.651073"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CONTUMAZA",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CONTUMAZA",
+            "DISTRITO": "CONTUMAZA",
+            "DIRECCION": "CALLE BOLOGNESI N° 381 - CONTUMAZA (EX LOCAL DE DEMUNA)",
+            "COORDINADOR": "VERA TOLENTINO JESSICA IRIS",
+            "CELULAR1": "994801131",
+            "CELULAR2": "969431068",
+            "CORREO1": "psicologairisvt@hotmail.com",
+            "LATITUD": "-7.366555",
+            "LONGITUD": "-78.805318"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CUTERVO",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "CUTERVO",
+            "DISTRITO": "CUTERVO",
+            "DIRECCION": "CENTRO COMERCIAL CUTERVO O MERCADO NUEVO - ENTRE JR LA MERCED Y JR PROGRESO ",
+            "COORDINADOR": "COBEÑAS PAREDES KATHIA LICETH ",
+            "CELULAR1": "994840181",
+            "CELULAR2": "942268082",
+            "CORREO1": "katia_liset@hotmail.com",
+            "LATITUD": "-6.376648",
+            "LONGITUD": "-78.817477"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUALGAYOC",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "HUALGAYOC",
+            "DISTRITO": "BAMBAMARCA",
+            "DIRECCION": "JR. ATAHUALPA Nº 125A, BAMBAMARCA - HUALGAYOC - CAJAMARCA (AL COSTADO DE LA COMISARIA)",
+            "COORDINADOR": "CARRASCO TERAN  RUTH JAQUELINE ",
+            "CELULAR1": "994840673",
+            "CELULAR2": "976707297",
+            "CORREO1": "jacky_300@hotmail.com",
+            "LATITUD": "-6.678291",
+            "LONGITUD": "-78.517501"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "JAEN",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "JAEN",
+            "DISTRITO": "JAEN",
+            "DIRECCION": "CALLE UNIVERSIDAD ENTRE LA CDRA 4 Y 5 (INGRESANDO POR EL PASAJE 2 MANO DERECHA)- URB. EL EDEN. ",
+            "COORDINADOR": "ALVAREZ ATALAYA YESENIA ANAMELVA",
+            "TELEFONO1": "076431510    ",
+            "CELULAR1": "994840108",
+            "CELULAR2": "920193677",
+            "CORREO1": "yeseniamelva84@hotmail.com",
+            "LATITUD": "-5.718721",
+            "LONGITUD": "-78.804666"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN IGNACIO",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "SAN IGNACIO",
+            "DISTRITO": "SAN IGNACIO",
+            "DIRECCION": "Jr. Bolognesi 139, prov. San Ignacio, Cajamarca",
+            "COORDINADOR": "RUIZ FERNANDEZ GISELA MACARENA",
+            "CELULAR1": "941524313",
+            "CELULAR2": "961069047",
+            "CORREO1": "giruifer@hotmail.com",
+            "LATITUD": "-5.144729",
+            "LONGITUD": "-79.006479"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN MARCOS",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "SAN MARCOS",
+            "DISTRITO": "PEDRO GALVEZ",
+            "DIRECCION": "JIRON JOSE GALVEZ 113 SAN MARCOS (A CUADRA Y MEDUA DE LA PLAZA DE ARMAS)",
+            "COORDINADOR": "CASTREJON VALDEZ AURORA LUCIA",
+            "CELULAR1": "994819604",
+            "CELULAR2": "993749969",
+            "CORREO1": "aurora22_11@homail.com",
+            "LATITUD": "-7.335727",
+            "LONGITUD": "-78.172481"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN MIGUEL",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "SAN MIGUEL",
+            "DISTRITO": "SAN MIGUEL",
+            "DIRECCION": "JIRÓN BOLÍVAR S/N FRENTE A LA SBP - ALTURA DE LA PLAZA DE ARMAS",
+            "COORDINADOR": "ESPINO CABRERA YURI EMERSON ",
+            "CELULAR1": "994839848",
+            "CELULAR2": "967915560",
+            "CORREO1": "espinocabrera@gmail.com",
+            "LATITUD": "-7.000423",
+            "LONGITUD": "-78.851241"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN PABLO",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "SAN PABLO",
+            "DISTRITO": "SAN PABLO",
+            "DIRECCION": "CALLE JULIAN CRUZADO S/N - INTERIOR DEL GARAJE MUNICIPAL - BARRIO CALIFORNIA",
+            "COORDINADOR": "FLORIAN ALVA CRISTOPHER EDGARDO",
+            "CELULAR1": "940414732",
+            "CELULAR2": "915331277",
+            "CORREO1": "tscemsp@gmail.com",
+            "LATITUD": "-7.118809",
+            "LONGITUD": "-78.823405"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SANTA CRUZ",
+            "REGION": "CAJAMARCA",
+            "PROVINCIA": "SANTA CRUZ",
+            "DISTRITO": "SANTA CRUZ",
+            "DIRECCION": "JR. ZARUMILLA N°880 ( ESQUINA ENTRE JIRÓN ZARUMILLA Y JIRÓN ATAHUALPA)",
+            "COORDINADOR": "MURO NEIRA WASHINGTON ",
+            "TELEFONO1": "076320004",
+            "CELULAR1": "940414730",
+            "CELULAR2": "978934821",
+            "CORREO1": "chitom2012@hotmail.com",
+            "LATITUD": "-6.628593",
+            "LONGITUD": "-78.943857"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "BARRANCA",
+            "REGION": "LIMA",
+            "PROVINCIA": "BARRANCA",
+            "DISTRITO": "BARRANCA",
+            "DIRECCION": "URB. SANTA CATALINA S/N - INTERIOR DEL COLISEO CERRADO, BARRANCA (REF. INGRESAR POR PUERTA VEHICULAR N°01)",
+            "COORDINADOR": "COLCAS AGUILA CONZUELA SARA",
+            "TELEFONO1": "015894669",
+            "CELULAR1": "994834249",
+            "CELULAR2": "956209907",
+            "CORREO1": "cembarranca2012@gmail.com",
+            "CORREO2": "sari1908@hotmail.com",
+            "LATITUD": "-10.741007",
+            "LONGITUD": "-77.771551"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CAJATAMBO",
+            "REGION": "LIMA",
+            "PROVINCIA": "CAJATAMBO",
+            "DISTRITO": "CAJATAMBO",
+            "DIRECCION": "CALLE PLAZA DE ARMAS N° 109",
+            "COORDINADOR": "CAMPOS VILLANUEVA JUDITH GUEIBY",
+            "CELULAR1": "914158590",
+            "CELULAR2": "949801430",
+            "CORREO1": "cemcajatamboaurora@gmail.com",
+            "LATITUD": "-10.47308",
+            "LONGITUD": "-76.992917"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CANTA",
+            "REGION": "LIMA",
+            "PROVINCIA": "CANTA",
+            "DISTRITO": "CANTA",
+            "DIRECCION": "AVENIDA CIRCUNVALACIÓN S/N (AL COSTADO DEL CEMENTERIO DE CANTA)",
+            "COORDINADOR": "MAGALI LETICIA SOTO RAMIREZ",
+            "TELEFONO1": "013780509",
+            "CELULAR1": "940404510",
+            "CELULAR2": "990150813",
+            "CORREO1": "cemcanta2014@gmail.com",
+            "LATITUD": "-11.465994",
+            "LONGITUD": "-76.62528"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CARABAYLLO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "CARABAYLLO",
+            "DIRECCION": "AV. SAN LUCAS S/N MZ. J, LOTE 01 AAHH VILLA SAN ANTONIO CARABAYLLO - LIMA . (PRIMERA ENTRADA DE SAN ANTONIO A 4 CUADRAS).",
+            "COORDINADOR": "ELECERIA VIVANCO CAHUANA",
+            "TELEFONO1": "015564272",
+            "CELULAR1": "994801059",
+            "CELULAR2": "998725496",
+            "CORREO1": "cemregularcarabayllo@gmail.com",
+            "LATITUD": "-11.860162",
+            "LONGITUD": "-77.003881"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CHACLACAYO (ex HUAYCAN)",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "ATE",
+            "DIRECCION": "NICOLAS AYLLON N° 1478 - CARRETERA CENTRAL CHACLACAYO",
+            "COORDINADOR": "LINDO COSME KARINA FREDESVINDA",
+            "TELEFONO1": "013717847",
+            "CELULAR1": "994833688",
+            "CELULAR2": "945161927",
+            "CORREO1": "cem.chaclacayo@gmail.com",
+            "LATITUD": "-11.9741567",
+            "LONGITUD": "-76.7624092"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CHOSICA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "LURIGANCHO-CHOSICA",
+            "DIRECCION": "AV. ENRIQUE GUZMAN Y+F155:K155 VALLE S/N INTERIOR DE LA CASA DE LA MUJER DE CHOSICA - 3 ER PISO",
+            "COORDINADOR": "MILUSKA AMERICA YAURI GUADALUPE",
+            "CELULAR1": "940414725 ",
+            "CELULAR2": "989178221",
+            "CORREO1": "cemchosica@gmail.com",
+            "LATITUD": "-11.941629",
+            "LONGITUD": "-76.696585"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "CIENEGUILLA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "CIENEGUILLA",
+            "DIRECCION": "Av. Sana Martin MZ L1  Lt 1 A.A.H.H Magda Portal Casa de la Cultura de la Municiplaidad de Cieneguilla 3er Piso",
+            "COORDINADOR": "CRISPIN HUACHUA LUZ VICKY",
+            "CELULAR1": "940406584",
+            "CELULAR2": "992539431",
+            "CORREO1": "cemcieneguilla2019@gmail.com",
+            "LATITUD": "-12.105624",
+            "LONGITUD": "-76.8311989"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "COMAS",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "COMAS",
+            "DIRECCION": "PJE. NEPTUNO S/N KM. 14.5 TÚPAC AMARU MERCADO AÑO NUEVO.( COSTADO DEL MERCADO DE AÑO NUEVO - INTERIOR INABIF).",
+            "COORDINADOR": "TAFUR VASQUEZ EVELYN KATHERINE",
+            "TELEFONO1": "015422114",
+            "CELULAR1": "994833686",
+            "CELULAR2": "938533606",
+            "CORREO1": "cemcomas2018@gmail.com",
+            "LATITUD": "-11.923273",
+            "LONGITUD": "-77.040063"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "EL AGUSTINO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "EL AGUSTINO",
+            "DIRECCION": "OVALO LA PAZ S/N 1ER PISO EN EL CENTRO DE OPERACIONES Y MONITORIO DE SEGURIDAD CIUDADANA DE LA MUNICIPALIDAD EL AGUSTINO - FRENTE AL HOSPITAL DE SOLIDARIDAD",
+            "COORDINADOR": "OMAR ALBERTO ALIAGA ELESCANO",
+            "TELEFONO1": "013568220",
+            "CELULAR1": "994819597",
+            "CELULAR2": "981049188",
+            "CORREO1": "cemelagustinore@gmail.com",
+            "LATITUD": "-12.0401356",
+            "LONGITUD": "-76.9977928"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUACHO",
+            "REGION": "LIMA",
+            "PROVINCIA": "HUAURA",
+            "DISTRITO": "HUACHO",
+            "DIRECCION": "JR. COLON 533  HUACHO -  AL FRENTE DE COLEGIO DE MADRES DOMINICAS",
+            "COORDINADOR": "MARCOS CHAGRAY SILVIA VIVIANA",
+            "TELEFONO1": "012380693",
+            "CELULAR1": "994841221 ",
+            "CELULAR2": "989205313",
+            "CORREO1": "cem.huachoregular@gmail.com",
+            "LATITUD": "-11.108696",
+            "LONGITUD": "-77.6128071"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUARAL",
+            "REGION": "LIMA",
+            "PROVINCIA": "HUARAL",
+            "DISTRITO": "HUARAL",
+            "DIRECCION": "3 DE OCTUBRE 372 - URB. AUXILIO MUTUOS DE HUARAL (A DOS CUADRAS DEL HOSPITAL SAN JUAN BAUTISTA)",
+            "COORDINADOR": "ERIKA LIDIA TARAZONA CASTRO",
+            "TELEFONO1": "012460289",
+            "CELULAR1": "994841324",
+            "CELULAR2": "943653737",
+            "CORREO1": "cem.huaral2020@gmail.com",
+            "LATITUD": "-11.5008414",
+            "LONGITUD": "-77.2150672"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "HUAROCHIRI",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "MATUCANA",
+            "DIRECCION": "JR. TACNA 626 CENTRO CÍVICO - MATUCANA - HUAROCHIRÍ (ESPALDA DE LA IGLESIA DE MATUCANA).",
+            "COORDINADOR": "AURORA VASQUEZ PINO",
+            "TELEFONO1": "013782074",
+            "CELULAR1": "994833882",
+            "CELULAR2": "992077106",
+            "CORREO1": "cemhuarochiri.aurora@gmail.com",
+            "LATITUD": "-11.8451265",
+            "LONGITUD": "-76.385801"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "IMPERIAL",
+            "REGION": "LIMA",
+            "PROVINCIA": "CAÑETE",
+            "DISTRITO": "IMPERIAL",
+            "DIRECCION": "JR.28 DE JULIO N° 491. (COSTADO DE LA BIBLIOTECA VIRTUAL, INTERIOR DE LA GALERIA MUNICIPAL)",
+            "COORDINADOR": "CARMEN NELLY ROSADO LINARES",
+            "TELEFONO1": "012848079",
+            "CELULAR1": "994833796 ",
+            "CELULAR2": "995461745",
+            "CORREO1": "cemregularimperial@gmail.com",
+            "LATITUD": "-13.0612318",
+            "LONGITUD": "-76.3520981"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "INDEPENDENCIA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "INDEPENDENCIA",
+            "DIRECCION": "AV. TÚPAC AMARU. K 4.5 - 2DO PISO ( INTERIOR DE LA MUNICIPALIDAD INDEPENDENCIA- 2DO PISO DE ARCHIVO MUNICIPAL)",
+            "TELEFONO1": "015232855",
+            "CELULAR1": "994840281 ",
+            "CELULAR2": "942625413",
+            "CORREO1": "cem.independencia.mimp@gmail.com",
+            "LATITUD": "-11.997277",
+            "LONGITUD": "-77.0551144"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "LA MOLINA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "LA MOLINA",
+            "DIRECCION": "CALLE LOS ALMENDROS S/N CDRA 05 - URB. AMPLIACIÓN RESISDENCIAL MONTERRICO (ESPALDA DEL SUPERMECADO METRO LA MOLINA) -CRUCE AV. JAVIER PRADO CDRA 59 Y AV. LA MOLINA CDRA 10",
+            "COORDINADOR": "SONIA LILIANA OJEDA HUAMAN",
+            "TELEFONO1": "012501807",
+            "CELULAR1": "994841161",
+            "CELULAR2": "987763797",
+            "CORREO1": "cem.regular.lamolina@gmail.com",
+            "LATITUD": "-12.0709793",
+            "LONGITUD": "-76.9584691"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "LA VICTORIA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "LA VICTORIA",
+            "DIRECCION": "CALLE SEBASTIAN BARRANCA N° 290, SEGUNDO PISO - LA VICTORIA",
+            "COORDINADOR": "ISMELDA RODRIGUEZ COTRINA",
+            "TELEFONO1": "013300471",
+            "CELULAR1": "914171432 ",
+            "CELULAR2": "985487624",
+            "CORREO1": "cemlavictoria.pncvfs@gmail.com",
+            "LATITUD": "-12.0686077",
+            "LONGITUD": "-77.0289965"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "LOS OLIVOS",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "LOS OLIVOS",
+            "DIRECCION": "PALACIO DE LA JUVENTUD - 6TOPISO AV. UNIVERSITARIA CUADRA 2086 (CRUCE AV. ANGELICA GAMARRA Y UNIVERSITARIA)",
+            "COORDINADOR": "REYES MOSCOL MARIA VICTORIA ",
+            "CELULAR1": "994841146",
+            "CELULAR2": "968353985",
+            "CORREO1": "cemolivosmimp@gmail.com",
+            "LATITUD": "-12.0029122",
+            "LONGITUD": "-77.0831393"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "MAGDALENA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN MIGUEL",
+            "DIRECCION": "CALLE  RODOLFO RUTTE 718 - MAGDALENA DEL MAR ",
+            "COORDINADOR": "LIZZET GIOVANNA  UNCO SUPA",
+            "CELULAR1": "945806396",
+            "CORREO1": "LIZZETT_2202@HOTMAIL.COM",
+            "LATITUD": "-12.090329",
+            "LONGITUD": "-77.062339"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "MANCHAY",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "PACHACAMAC",
+            "DIRECCION": "AV. VÍCTOR MALASQUES S/N PORTADA DE MANCHAY (CENTRO CULTURAL DEL ESPÍRITU SANTO, AL FRENTE DE LA PARROQUIA ESPIRITU SANTO Y FRENTE AL CENTRO DE SALUD PORTADA DE MANCHAY).",
+            "COORDINADOR": "PONCE VALEGA EMMA MARINA",
+            "TELEFONO1": "012828024",
+            "CELULAR1": "994840264",
+            "CELULAR2": "994840264",
+            "CORREO1": "equipocemmanchay@gmail.com",
+            "LATITUD": "-12.088984",
+            "LONGITUD": "-76.881815"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "OYON",
+            "REGION": "LIMA",
+            "PROVINCIA": "OYON",
+            "DISTRITO": "OYON",
+            "DIRECCION": "JIRÓN UNIÓN S/N (FRENTE AL MERCADO CENTRAL)",
+            "COORDINADOR": "RENGIFO GUERREYRO JELSSY SOCORRO",
+            "CELULAR1": "940414738",
+            "CELULAR2": "932798169",
+            "CORREO1": "cemoyonlima@gmail.com",
+            "LATITUD": "-10.669744",
+            "LONGITUD": "-76.773305"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "PUENTE PIEDRA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "PUENTE PIEDRA",
+            "DIRECCION": "MZ. E LT. 9 URB. PALERMO - REFERENCIA ESPALDA DE TOTTUS - DEL COLEGIO JOSÉ DE NAZARET A LA IZQUIERDA",
+            "COORDINADOR": "CRISPIN SOTELO KARIN ROSARIO",
+            "TELEFONO1": "015209312",
+            "CELULAR1": "994834118",
+            "CELULAR2": "984740571",
+            "CORREO1": "cempuentepiedraregular@gmail.com",
+            "LATITUD": "-11.8702733",
+            "LONGITUD": "-77.0743606"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "RIMAC",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "RIMAC",
+            "DIRECCION": "CALLE 15 N° 225 2° PISO URBANIZACION LA FLORIDA ",
+            "COORDINADOR": "LUNA ALBA SUSAN JACQUELINE",
+            "TELEFONO1": "014816129",
+            "CELULAR1": "994819601",
+            "CELULAR2": "993619197",
+            "CORREO1": "cemregularimac@gmail.com",
+            "LATITUD": "-12.0234243",
+            "LONGITUD": "-77.0345675"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN JUAN DE LURIGANCHO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN JUAN DE LURIGANCHO",
+            "DIRECCION": "JR. SAN MARTÍN N° 675 URB.SAN RAFAEL AGENCIA MUNICIPAL N°1- 2DO PISO. (PARADERO 8 DE AV. CANTO GRANDE - AGENCIA MUNICIPAL).",
+            "COORDINADOR": "TORRES MENDOZA EDITH JESUS",
+            "TELEFONO1": "015797693",
+            "CELULAR1": "994840340",
+            "CELULAR2": "980521610",
+            "CORREO1": "cemsjl@hotmail.com",
+            "CORREO2": "etmendoza@hotmail.com",
+            "LATITUD": "-11.9783258",
+            "LONGITUD": "-76.9931412"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN JUAN DE MIRAFLORES - PAMPLONA ALTA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN JUAN DE MIRAFLORES",
+            "DIRECCION": "AV CENTRAL S/N SECTOR ALFONSO UGARTE PAMPLONA ALTA. (INTERIOR DE SEDIF -INABIF- PARADERO CORREO)",
+            "COORDINADOR": "CACERES RAMOS RUTH TERESA",
+            "TELEFONO1": "012852451",
+            "CELULAR1": "994840286",
+            "CELULAR2": "999200048",
+            "CORREO1": "ruthcaceres_28@hotmail.com",
+            "LATITUD": "-12.1413876",
+            "LONGITUD": "-76.9663379"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN MARTIN DE PORRES",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN MARTIN DE PORRES",
+            "DIRECCION": "CALLE PEDREGAL 406- 2DO PISO)- SMP. ( ALTURA DE LA CUADRA 9 DE LA AV ZARUMILLA, PUENTE CONTROL, AL COSTADO DEL CLUB DE LEONES).- EN EL MISMO LOCAL DE LA DEMUNA.",
+            "COORDINADOR": "LINARES RODRIGUEZ GABRIELA MARILU",
+            "TELEFONO1": "014815426",
+            "CELULAR1": "994819554",
+            "CELULAR2": "988237051",
+            "CORREO1": "cem.smp.2018@gmail.com ",
+            "CORREO2": "cem.sanmartindeporres@aurora.gob.pe",
+            "LATITUD": "-12.0351462",
+            "LONGITUD": "-77.0571032"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SAN MIGUEL",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN MIGUEL",
+            "DIRECCION": "COMPLEJO RECREACIONAL DIEGO FERRER, ESQUINA CALLE DIEGO FERRER CON ESQUINA CALLE LOS GIRASOLES (ALTURA CRA. 22 AV. RIVA AGUERO) - SAN MIGUEL",
+            "COORDINADOR": "GRACIELA PILAR FLORES FERNÁNDEZ",
+            "TELEFONO1": "012703292",
+            "CELULAR1": "914159470",
+            "CELULAR2": "952399184",
+            "CORREO1": "gracielapff@hotmail.com",
+            "LATITUD": "-12.0630188",
+            "LONGITUD": "-77.0817944"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SANTA ROSA",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SANTA ROSA",
+            "DIRECCION": "CALLE BERTELO S/N (INTERIOR DE LA CASA DE LA CULTURA Y LA JUVENTUD) - PASANDO LA COMISARISA DE SANTA ROSA",
+            "COORDINADOR": "LUIS ALBERTO JANAMPA ROJAS",
+            "TELEFONO1": "015867579",
+            "CELULAR1": "940414728 ",
+            "CELULAR2": "975170637",
+            "CORREO1": "cemsantarosa2018@gmail.com",
+            "LATITUD": "-11.7967132",
+            "LONGITUD": "-77.1714275"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SURCO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SURCO",
+            "DIRECCION": "JR. LAS ORQUIDEAS MZ N1 LOTE 1- URB. SAN IGNACIO - MONTERRICO - SURCO.",
+            "COORDINADOR": "IVON KARINA VASQUEZ FERNANDEZ",
+            "TELEFONO1": "012751614",
+            "CELULAR1": "941524326",
+            "CELULAR2": "950677649",
+            "CORREO1": "cemsurco2020@gmail.com",
+            "LATITUD": "-12.1404935",
+            "LONGITUD": "-76.9768809"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "SURQUILLO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SURQUILLO",
+            "DIRECCION": "AV. ANGAMOS ESTE N°1820 - REF. FRENTE AL OPEN PLAZA ANGAMOS",
+            "COORDINADOR": "GARCIA GALVEZ MARCO ANTONIO",
+            "TELEFONO1": "012412391",
+            "CELULAR1": "994840439",
+            "CELULAR2": "952387499",
+            "CORREO1": "cemsurquillo@hotmail.com",
+            "LATITUD": "-12.1126726",
+            "LONGITUD": "-77.0112715"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "VILLA MARIA DEL TRIUNFO",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "VILLA MARIA DEL TRIUNFO",
+            "DIRECCION": "JR. JOSÉ GÁLVEZ 895 VILLA MARÍA DEL TRIUNFO - ANFITEATRO. (DENTRO DE LA PLAZA DE ARMAS S/N, COSTADO DE OMAPED).",
+            "COORDINADOR": "VALENZUELA ARAMBULO EDITH GLORIA",
+            "TELEFONO1": "012609070",
+            "CELULAR1": "994833554",
+            "CELULAR2": "944026449",
+            "CORREO1": "vk.princesas@gmail.com",
+            "LATITUD": "-12.1624825",
+            "LONGITUD": "-76.9435363"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "YAUYOS",
+            "REGION": "LIMA",
+            "PROVINCIA": "YAUYOS",
+            "DISTRITO": "YAUYOS",
+            "DIRECCION": "CALLE AURORA S/N (1ER PISO DEL HOSPEDAJE MUNICIPAL) PLAZA JORGE CHÁVEZ - YAUYOS)",
+            "COORDINADOR": "AMANDA GALA CHUMBES",
+            "CELULAR1": "994840474",
+            "CELULAR2": "952315237",
+            "CORREO1": "mayela_145@hotmail.com",
+            "LATITUD": "-12.45949",
+            "LONGITUD": "-75.918894"
+        },
+        {
+            "TIPO": "CEM",
+            "NOMBRE": "ZARATE",
+            "REGION": "LIMA",
+            "PROVINCIA": "LIMA",
+            "DISTRITO": "SAN JUAN DE LURIGANCHO",
+            "DIRECCION": "CEM COM. CAJA DE AGUA - CALLE MOQUEGUA CON TRUJILLO - SAN JUAN DE LURIGANCHO - LIMA - LIMA.",
+            "COORDINADOR": "CHERO VERGARAY STEFANY DEL ROSARIO",
+            "CELULAR1": "940404512",
+            "CELULAR2": "947340825",
+            "CORREO1": "stcherov1893@gmail.com",
+            "LATITUD": "-12.02725",
+            "LONGITUD": "-77.0152565"
         },
         {
             "TIPO": "CEM",
@@ -2393,7 +3241,7 @@
             "CELULAR1": "994833640",
             "CELULAR2": "945251213",
             "CORREO1": "cinthya_1744@hotmail.com ",
-            "LATITUD": "-12.057210",
+            "LATITUD": "-12.05721",
             "LONGITUD": "-77.148536"
         },
         {
@@ -2479,7 +3327,7 @@
             "CELULAR1": "952907923",
             "CELULAR2": "952633000",
             "CORREO1": "evargas@defensoria.gob.pe ",
-            "LATITUD": "-18.017700",
+            "LATITUD": "-18.0177",
             "LONGITUD": "-70.246563"
         },
         {
@@ -2597,7 +3445,7 @@
             "CELULAR2": "984927097",
             "CORREO1": "rsantacruz@defensoria.gob.pe",
             "LATITUD": "-13.523909",
-            "LONGITUD": "-71.974750"
+            "LONGITUD": "-71.97475"
         },
         {
             "TIPO": "MAD",
@@ -2686,7 +3534,7 @@
             "CELULAR1": "962911124",
             "CELULAR2": "954140922",
             "CORREO1": "lyllanes@defensoria.gob.pe",
-            "LATITUD": "-9.925930",
+            "LATITUD": "-9.92593",
             "LONGITUD": "-76.239325"
         },
         {
@@ -2762,7 +3610,7 @@
             "CELULAR2": "980418833",
             "CORREO1": "hpari@defensoria.gob.pe",
             "LATITUD": "-3.7582308",
-            "LONGITUD": "-73.253170"
+            "LONGITUD": "-73.25317"
         },
         {
             "TIPO": "MAD",
@@ -2801,7 +3649,7 @@
             "PROVINCIA": "UCAYALI",
             "DISTRITO": "PUCALLPA",
             "DIRECCION": "Jr. Libertad 144, CAllería, Pucallpa",
-            "COORDINADOR": "       Dr. Hugo Pari Taboada",
+            "COORDINADOR": "Dr. Hugo Pari Taboada",
             "TELEFONO1": "061578633",
             "CELULAR1": "980418833",
             "CELULAR2": "965673839",

@@ -1182,6 +1182,14 @@
                     </div>
                 </div>
             </div>
+
+            <!-- boletín informativo -->
+            <div class="isotope mt-130">
+                <div class="container">
+                    <h2 class="display-4 mb-60 pb-30 text-center">Boletín informativo</h2>
+                    <div id="iframe_holder" class="pb-30"></div>
+                </div>
+            </div>
         </div>
 
         <footer class="footer bg-dark text-white shape-parent overflow-hidden py-130">
@@ -1347,6 +1355,17 @@
         <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
         <!-- Themebau -->
         <script src="assets/js/themebau.min.js"></script>
+
+        <script type="text/javascript">
+            $(window).on('load', function() {
+                var f = document.createElement('iframe');
+                f.src = 'https://heyzine.com/flip-book/b60ae835be.html'; 
+                f.style.border = 0;
+                f.style.width = '100%';
+                f.style.height = '768px';
+                jQuery('#iframe_holder').append(f);
+            });
+        </script>
         <!-- END: Scripts -->
     </body>
 </html>
